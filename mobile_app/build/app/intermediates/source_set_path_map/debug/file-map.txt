@@ -1,0 +1,20 @@
+io.marcus.mobile_app-jetified-play-services-base-18.0.1-0 C:\Users\hp\.gradle\caches\transforms-3\8806993ea055ef2b9efc59271982ea02\transformed\jetified-play-services-base-18.0.1\res
+io.marcus.mobile_app-jetified-play-services-basement-18.1.0-1 C:\Users\hp\.gradle\caches\transforms-3\a047378da7b5ace900bd16f8e4eb2031\transformed\jetified-play-services-basement-18.1.0\res
+io.marcus.mobile_app-jetified-firebase-messaging-23.3.1-2 C:\Users\hp\.gradle\caches\transforms-3\c7e3d5ff660fa0c911ff5c0a5bb1d079\transformed\jetified-firebase-messaging-23.3.1\res
+io.marcus.mobile_app-core-1.6.0-3 C:\Users\hp\.gradle\caches\transforms-3\cd49e01ddf70b26198e97641e9e094d0\transformed\core-1.6.0\res
+io.marcus.mobile_app-jetified-window-1.0.0-beta04-4 C:\Users\hp\.gradle\caches\transforms-3\d056cca879328a17af9bbe33393f80ad\transformed\jetified-window-1.0.0-beta04\res
+io.marcus.mobile_app-jetified-firebase-common-20.4.2-5 C:\Users\hp\.gradle\caches\transforms-3\da9df703d2a6afa57edd5370e2aaeda8\transformed\jetified-firebase-common-20.4.2\res
+io.marcus.mobile_app-jetified-annotation-experimental-1.1.0-6 C:\Users\hp\.gradle\caches\transforms-3\ec6099b51c9ac6d5ec4e0202a3034a30\transformed\jetified-annotation-experimental-1.1.0\res
+io.marcus.mobile_app-localbroadcastmanager-1.1.0-7 C:\Users\hp\.gradle\caches\transforms-3\f2be46e1940c3c43f10829f0b0e44eec\transformed\localbroadcastmanager-1.1.0\res
+io.marcus.mobile_app-jetified-window-java-1.0.0-beta04-8 C:\Users\hp\.gradle\caches\transforms-3\fe84b512ecf48e448f819ad01268bef9\transformed\jetified-window-java-1.0.0-beta04\res
+io.marcus.mobile_app-debug-9 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\android\app\src\debug\res
+io.marcus.mobile_app-main-10 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\android\app\src\main\res
+io.marcus.mobile_app-google-services-11 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\generated\res\google-services\debug
+io.marcus.mobile_app-pngs-12 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\generated\res\pngs\debug
+io.marcus.mobile_app-resValues-13 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\generated\res\resValues\debug
+io.marcus.mobile_app-rs-14 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\generated\res\rs\debug
+io.marcus.mobile_app-mergeDebugResources-15 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+io.marcus.mobile_app-mergeDebugResources-16 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+io.marcus.mobile_app-merged_res-17 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\app\intermediates\merged_res\debug
+io.marcus.mobile_app-packaged_res-18 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\firebase_core\intermediates\packaged_res\debug
+io.marcus.mobile_app-packaged_res-19 C:\Users\hp\Desktop\POF IN-APP Notification\mobile_app\build\firebase_messaging\intermediates\packaged_res\debug

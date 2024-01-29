@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814575281988",
+    "project_id": "notification-poc-6c703",
+    "storage_bucket": "notification-poc-6c703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814575281988:android:dcb914bd49332a2d239911",
+        "android_client_info": {
+          "package_name": "io.marcus.mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPS4sZ99hp9P9rp2UjEnzNI3M-fF9eiqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
